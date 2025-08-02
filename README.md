@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ali Hassan 👋</h1>
+<h1 align="center">Hi there, This is Ali Hassan</h1>
 
 <p align="center">
   <i>Software Engineer | MERN Stack | Python | Next.js | .NET | AI & DevOps Enthusiast</i><br/>
