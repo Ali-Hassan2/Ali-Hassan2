@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, This is Ali Hassan</h1>
 
 <p align="center">
-  <i>Software Engineer | MERN Stack | Python | Next.js | .NET | AI & DevOps Enthusiast</i><br/>
+  <i>Software Engineer | MERN Stack | Python | Next.js | .NET | AI & DevOps Engineer</i><br/>
   <a href="mailto:alihassan26032004@gmail.com">Email</a> • 
   <a href="https://linkedin.com/in/ali-hassan-918783281/">LinkedIn</a> • 
   <a href="https://github.com/Ali-Hassan2">GitHub</a>
