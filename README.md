@@ -10,7 +10,7 @@
 ---
 
  **What I'm up to these days:**  
- -  Building a SaaS platform powered by AI agents for automating freelancing tasks  
+ -  Building a SaaS platform, powered by AI agents for automating freelancing tasks  
  -  Developing "Test Bond" a React-based Quiz & Learning App  
  -  Working on "Beyond Ayaat" exploring Qur'an & Science connections via research & web app  
  -  Daily brain-training exercises and cognitive skill improvement projects  
