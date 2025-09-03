@@ -38,3 +38,15 @@
   MongoDB     55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░  3.6%
   Markdown    30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░  1.9%
   Git & GitLab 1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░  4.5%
+
+### 📊 GitHub Activity Graph
+![ZainAli879's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainAli879&theme=github-compact)
+
+### ⚡ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainAli879&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZainAli879&theme=radical)
+
+### 🖥️ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAli879&layout=compact&theme=radical)
