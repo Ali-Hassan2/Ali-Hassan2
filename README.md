@@ -18,9 +18,6 @@
 
 ---
 
-### 📈 Contribution Activity Overview
-![Ali Hassan's Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Hassan2&theme=radical)
-
 
  **Tech Stack & Tools I Use Regularly:**  
 | Frontend         | Backend          | Databases       | DevOps & Tools               | OS & Other              |
