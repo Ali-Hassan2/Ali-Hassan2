@@ -7,7 +7,7 @@
   <a href="https://github.com/Ali-Hassan2">GitHub</a> 
 </p> 
 
----
+---  
 
  **What I'm up to these days:**  
  -  Building a SaaS platform, powered by AI agents for automating freelancing tasks  
