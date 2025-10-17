@@ -22,8 +22,8 @@
  **Tech Stack & Tools I Use Regularly:**  
 | Frontend         | Backend          | Databases       | DevOps & Tools               | OS & Other              |
 |------------------|------------------|-----------------|-----------------------------|-------------------------|
-| React, Next.js, Tailwind CSS, Bootstrap | Node.js, Express, .NET Core | MongoDB, MySQL            | Docker, Git, GitLab CI/CD, Nginx | Ubuntu Linux, Windows    |
-| JavaScript, TypeScript | Python (Flask, FastAPI) | Redis (Cache)  | VSCode, Postman, Figma      | Bash, Zsh               |
+| React, Next.js, Tailwind CSS, Bootstrap | Node.js, Express, .NET Core | MongoDB, MySQL, Postgresql            | Docker, Git, GitLab CI/CD, Nginx | Ubuntu Linux, Windows    |
+| JavaScript, TypeScript | Python (Flask, FastAPI) | Redis (Cache)  | VSCode, Postman, Figma      | Bash, Zsh, Shell               |
 | GSAP Animations   | REST & GraphQL APIs |                 | Jenkins, Kubernetes (learning) |                        |
 
  **This Week's Coding Time:**  
